@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>w22 (69).jpg</filename>
+	<path>G:\Projects\tensorflow-windows-detector\data\windows_train\images\w22 (69).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2563</width>
+		<height>1709</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>windows</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1336</xmin>
+			<ymin>365</ymin>
+			<xmax>1954</xmax>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+</annotation>
